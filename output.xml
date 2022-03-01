@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.3 (Python 3.7.5 on win32)" generated="20220301 17:11:21.003" rpa="true" schemaversion="2">
+<suite id="s1" name="Tasks" source="c:\Users\ViniciusRibeiro\source\repos\robocoporhw\tasks.robot">
+<test id="s1-t1" name="Insert the sales data for the week and export it as a PDF">
+<status status="FAIL" starttime="20220301 17:11:21.786" endtime="20220301 17:11:21.787">Task case contains no keywords.</status>
+</test>
+<doc>Insert the sales data for the week and export it as a PDF.</doc>
+<status status="FAIL" starttime="20220301 17:11:21.008" endtime="20220301 17:11:21.790"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tasks</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Tasks">Tasks</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
